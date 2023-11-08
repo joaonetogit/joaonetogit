@@ -12,4 +12,4 @@
 
 ☕ In addition to my passion for technology, I'm also interested in subjects such as finance, music and different cultures.
 
-👨🏻‍💻 You can check out my work on GitHub: https://github.com/joaonetogit.
+👨🏻‍💻 You can check out my work on GitHub repositories: [https://github.com/joaonetogit](https://github.com/joaonetogit?tab=repositories).
