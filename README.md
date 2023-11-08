@@ -1,20 +1,4 @@
-### Opa! 👋 (pt-BR)
-
-🎓 Sou formado em Sistemas de Informação pela Universidade de Pernambuco e tenho muito interesse em tecnologia.
-
-💻 Atualmente, atuo no desenvolvimento front-end, trabalhando com temas personalizados de WordPress com HTML/PHP, Sass, Webpack e JavaScript e também desenvolvo com ReactJS, Typescript, Styled Components, Storybook, entre outros. 
-
-🖥️ Possuo mais de 5 anos de experiência em desenvolvimento utilizando WordPress + Elementor, e suas integrações, para criar sites institucionais e lojas virtuais. Durante esse período, prestei serviços para agências de marketing digital e executei trabalhos como freelancer. 
-
-👨🏻‍💻 Como Desenvolvedor Front-end, estou em constante aprimoramento para aperfeiçoar minhas habilidades nesta área. Busco me atualizar constantemente através de cursos de especialização nessa área e conteúdos relevantes relacionados no YouTube e Medium.
-
-🚀 Possuo interesse em diversas áreas relacionadas ao desenvolvimento front-end, incluindo UI design, tecnologias, metodologias e documentação. Acredito que a constante atualização é fundamental para acompanhar o universo do desenvolvimento web.
-
-☕ Além da minha paixão pela tecnologia, também sou interessado em assuntos como finanças, música e culturas diversas.
-
-👨🏻‍💻 Você pode conferir meu trabalho no GitHub: https://github.com/joaonetogit.
-
-### Hey! 👋 (en-US)
+### Hey! 🚀
 
 🎓 I got my degree in Information Systems from the University of Pernambuco and I'm very interested in technology.
 
