@@ -2,7 +2,7 @@
 
 🎓 I graduated in Information Systems from Pernambuco University and have a strong interest in technology.
 
-💻 Presently, I center my attention on front-end development by designing custom WordPress themes utilizing technologies like HTML, PHP, Sass, Webpack, and JavaScript. As well, I craft applications and websites by utilizing ReactJS/NextJS, Typescript, Styled Components, Storybook, TailwindCSS, and other innovative libraries and frameworks.
+💻 Currently, my main focus revolves around advancing applications and websites within the React ecosystem. I work with technologies such as ReactJS, NextJS, Typescript, Styled Components, Storybook, TailwindCSS and other cutting-edge libraries and frameworks. In addition, my experience extends to front-end development, where I create custom WordPress themes using a toolset that includes HTML, PHP, CSS/Sass, Webpack and JavaScript. This multi-faceted approach allows me to seamlessly blend creativity with technology, ensuring optimal user experiences and visually stunning designs.
 
 🖥️ With over five years of experience in developing on the WordPress ecosystem, including Elementor integration, I have created institutional websites and e-commerce stores. Throughout my tenure, I have served digital marketing agencies while also freelancing.
 
