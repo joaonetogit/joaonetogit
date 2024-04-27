@@ -1,13 +1,11 @@
 ### Hey! 🚀
 
-🎓 I graduated in Information Systems from Pernambuco University and have a strong interest in technology.
+🎓 I have a degree in Information Systems from the University of Pernambuco (UPE) and I'm currently focused on improving my skills in front-end development, creating unique layouts for WordPress using technologies such as HTML, PHP, Sass, Webpack and JavaScript. I also have experience creating applications and websites with ReactJS / NextJS, Typescript, Styled Components, Storybook, TailwindCSS and other emerging tools and frameworks.
 
-💻 Currently, my main focus revolves around advancing applications and websites within the React ecosystem. I work with technologies such as ReactJS, NextJS, Typescript, Styled Components, Storybook, TailwindCSS and other cutting-edge libraries and frameworks. In addition, my experience extends to front-end development, where I create custom WordPress themes using a toolset that includes HTML, PHP, CSS/Sass, Webpack and JavaScript. This multi-faceted approach allows me to seamlessly blend creativity with technology, ensuring optimal user experiences and visually stunning designs.
+🖥️ With over five years' experience working in the WordPress environment, especially integrating with Elementor, I have developed several corporate websites and online stores. During my career, I have collaborated with digital marketing agencies and worked independently as a freelance professional.
 
-🖥️ With over five years of experience in developing on the WordPress ecosystem, including Elementor integration, I have created institutional websites and e-commerce stores. Throughout my tenure, I have served digital marketing agencies while also freelancing.
+👨🏻‍💻Como Front-end professional, I've accumulated more than two years' experience improving my technical and communication skills. I always try to keep up to date through specific courses and by following relevant content on platforms such as YouTube and Medium.
 
-👨🏻‍💻 As a front-end developer, I have more than two years of experience, convalescing my technical and interpersonal skills relentlessly. I stay current by taking specialized courses and following relevant content on platforms such as YouTube and Medium.
+🚀I have a keen interest in various aspects of front-end development, such as interface design, emerging technologies, innovative methods and documentation. Constantly learning is essential to keep up with the latest developments in the world of web development.
 
-🚀 I have a strong interest in various aspects of front-end development, including UI design, emerging technologies, innovative methodologies, and documentation writing. Continuing to learn is crucial to staying up-to-date with the latest trends in web development.
-
-📖 I invite you to explore my portfolio on GitHub: [repositories](https://github.com/joaonetogit?tab=repositories).
+📖 Feel free to explore the projects on my GitHub: [repositories](https://github.com/joaonetogit?tab=repositories).
